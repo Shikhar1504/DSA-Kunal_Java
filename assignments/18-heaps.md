@@ -67,4 +67,30 @@
 
 ---
 
-## Sets (HashSet, TreeSet, LinkedHashSet
+## Sets (HashSet, TreeSet, LinkedHashSet)
+
+### Easy
+- Single Number
+- Intersection of Two Arrays
+- Happy Number
+- Contains Duplicate
+- First Unique Character in a String
+- Find the Difference
+- Intersection of Two Arrays II
+- Check If a String Contains All Binary Codes of Size K
+
+### Medium
+- Group Anagrams
+- Longest Consecutive Sequence
+- Find All Numbers Disappeared in an Array
+- Valid Sudoku
+- Sum of Unique Elements
+- Random Pick with Weight
+- Letter Combinations of a Phone Number
+
+### Hard
+- Find All Duplicates in an Array
+- Substring with Concatenation of All Words
+- Maximum Length of a Concatenated String with Unique Characters
+- Count Distinct Numbers in Each Subarray
+- Reorder Data in Log Files
