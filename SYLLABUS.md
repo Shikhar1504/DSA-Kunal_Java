@@ -152,7 +152,7 @@
     - Interval problems
 - HashMap
     - [Introduction](https://youtu.be/XLbvmMz8Fr8)
-        - Theory - how it works
+        - <span style="color:blue">Theory - how it works</span>
         - Comparisons of various forms
         - Limitations and how to solve
         - Map using LinkedList
@@ -161,7 +161,7 @@
         - Probing
     - [Huffman Coding](https://youtu.be/XLfgeaYHinM)
     - [Karp-Rabin Strng matching algorithm](https://youtu.be/swciWFPq3NE)
-- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
+Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Graphs
     - Introduction
     - BFS
