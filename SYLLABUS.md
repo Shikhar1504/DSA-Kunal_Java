@@ -27,12 +27,12 @@
     - [Memory management](https://youtu.be/n60Dn0UsbEk?t=632)
     - [Input and Output](https://youtu.be/n60Dn0UsbEk?t=1675)
     - [ArrayList Introduction](https://youtu.be/n60Dn0UsbEk?t=4868)
-    - Searching
+    - [Searching](https://youtu.be/_HRA37X8N_Q)
         - [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
-    - Sorting
+    - [Sorting](https://youtu.be/By_5-RRqVeE)
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
@@ -116,7 +116,7 @@
     - [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
     - [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
     - [Enums](https://youtu.be/9ogGan-R1pc?t=909)
-- Linked List
+- [Linked List](https://youtu.be/58YbpRDc4yw)
     - [Introduction](https://youtu.be/58YbpRDc4yw)
     - [Singly + Doubly + Circular LinkedList](https://youtu.be/58YbpRDc4yw)
     - [Fast and slow pointer](https://youtu.be/70tx7KcMROc)
@@ -124,55 +124,55 @@
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - [Stacks & Queues](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
-    - Introduction
-    - Push efficient
-    - Pop efficient
-    - Queue using Stack and vice versa
-    - Circular Queue
+    - [Introduction](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
+    - [Push efficient](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
+    - [Pop efficient](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
+    - [Queue using Stack and vice versa](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
+    - [Circular Queue](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
     - [Interview problems](https://www.youtube.com/watch?v=S9LUYztYLu4)
 - [File handling](https://www.youtube.com/watch?v=b35mlSPOlJg)
 - [Trees](https://www.youtube.com/playlist?list=PL9gnSGHSqcnqfctdbCQKaw5oZ9Up2cmsq)
     - [Introduction](https://www.youtube.com/watch?v=4s1Tcvm00pA)
-      - Binary Trees
-      - Binary Search Trees
+      - [Binary Trees](https://www.youtube.com/watch?v=4s1Tcvm00pA)
+      - [Binary Search Trees](https://www.youtube.com/watch?v=4s1Tcvm00pA)
     - [Interview questions](https://www.youtube.com/watch?v=9D-vP-jcc-Y)
-      - DFS
-      - BFS
+      - [DFS](https://www.youtube.com/watch?v=9D-vP-jcc-Y)
+      - [BFS](https://www.youtube.com/watch?v=9D-vP-jcc-Y)
     - [AVL Trees](https://www.youtube.com/watch?v=CVA85JuJEn0)
     - [Segment Tree](https://www.youtube.com/watch?v=ciHThtTVNto)
     - Fenwick Tree / Binary Indexed Tree
-- Heaps
+- [Heaps](https://youtu.be/Qf-TDPr0nYw)
     - [Introduction](https://youtu.be/Qf-TDPr0nYw)
-        - Theory
-        - Priority Queue
-        - Heapsort
-    - Two Heaps Method
-    - k-way merge
-    - Top k elements
-    - Interval problems
-- HashMap
+        - [Theory](https://youtu.be/Qf-TDPr0nYw)
+        - [Priority Queue](https://youtu.be/Qf-TDPr0nYw)
+        - [Heapsort](https://youtu.be/Qf-TDPr0nYw)
+    - [Two Heaps Method](https://youtu.be/Qf-TDPr0nYw)
+    - [k-way merge](https://youtu.be/Qf-TDPr0nYw)
+    - [Top k elements](https://youtu.be/Qf-TDPr0nYw)
+    - [Interval problems](https://youtu.be/Qf-TDPr0nYw)
+- [HashMap](https://youtu.be/XLbvmMz8Fr8)
     - [Introduction](https://youtu.be/XLbvmMz8Fr8)
-        - Theory - how it works
-        - Comparisons of various forms
-        - Limitations and how to solve
-        - Map using LinkedList
-        - Map using Hash
-        - Chaining
-        - Probing
+        - [Theory - how it works](https://youtu.be/XLbvmMz8Fr8)
+        - [Comparisons of various forms](https://youtu.be/XLbvmMz8Fr8)
+        - [Limitations and how to solve](https://youtu.be/XLbvmMz8Fr8)
+        - [Map using LinkedList](https://youtu.be/XLbvmMz8Fr8)
+        - [Map using Hash](https://youtu.be/XLbvmMz8Fr8)
+        - [Chaining](https://youtu.be/XLbvmMz8Fr8)
+        - [Probing](https://youtu.be/XLbvmMz8Fr8)
     - [Huffman Coding](https://youtu.be/XLfgeaYHinM)
     - [Karp-Rabin Strng matching algorithm](https://youtu.be/swciWFPq3NE)
-Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
-- Graphs
-    - Introduction
-    - BFS
-    - DFS
+[Subarray Questions: Sliding window, Two Pointer](https://youtu.be/9kdHxplyl5I?si=Y6AsqwhQoK9Vk1Xb), [Kadane's Algorithm](https://youtu.be/AHZpyENo7k4?si=QZcv1s_s_VWrD7ku)
+- [Graphs](https://youtu.be/M3_pLsDdeuU?si=gcTJsfrMeV6Ixn09)
+    - [Introduction](https://youtu.be/M3_pLsDdeuU?si=gcTJsfrMeV6Ixn09)
+    - [BFS](https://youtu.be/-tgVpUgsQ5k?si=_uzQrpO-kGHdYCw0)
+    - [DFS](https://youtu.be/Qzf1a--rhp8?si=oJmQH_mt4SdkCbHo)
     - Working with graph components
     - Minimum Spanning Trees
     - Kruskal Algorithm
     - Prims Algorithm
-    - Dijkstra’s shortest path algorithm
-    - Topological Sort
-    - Bellman ford
+    - [Dijkstra’s shortest path algorithm](https://youtu.be/V6H1qAeB-l4?si=oSJmZ1RZJIqaSIpP)
+    - [Topological Sort](https://youtu.be/5lZ0iJMrUMk?si=mGsL43AZrgVeXfQ2)
+    - [Bellman ford](https://youtu.be/0vVofAhAYjc?si=GyIR-NoSEWaMM_7e)
     - A* pathfinding Algorithm
 - Dynamic Programming
     - Introduction
@@ -183,7 +183,7 @@ Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
     - Unbounded Knapsack
     - Subsequence questions
     - String DP
-- Greedy Algorithms
+- [Greedy Algorithms](https://youtu.be/DIX2p7vb9co?si=Kff95ieGoWNbsfBo)
 - Tries
 
 ### Advanced concepts apart from interviews 
