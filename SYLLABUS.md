@@ -166,23 +166,23 @@
     - [Introduction](https://youtu.be/M3_pLsDdeuU?si=gcTJsfrMeV6Ixn09)
     - [BFS](https://youtu.be/-tgVpUgsQ5k?si=_uzQrpO-kGHdYCw0)
     - [DFS](https://youtu.be/Qzf1a--rhp8?si=oJmQH_mt4SdkCbHo)
-    - Working with graph components
-    - Minimum Spanning Trees
-    - Kruskal Algorithm
-    - Prims Algorithm
+    - [Working with graph components](https://youtu.be/lea-Wl_uWXY?si=qx6qV6lMbcRlINYT)
+    - [Minimum Spanning Trees](https://youtu.be/ZSPjZuZWCME?si=YF9GRDTufZDFlGnO)
+    - [Kruskal Algorithm](https://youtu.be/DMnDM_sxVig?si=ysUF8GhwccPQs-Nm)
+    - [Prims Algorithm](https://youtu.be/mJcZjjKzeqk?si=9e8EciofZfczYUS3)
     - [Dijkstra’s shortest path algorithm](https://youtu.be/V6H1qAeB-l4?si=oSJmZ1RZJIqaSIpP)
     - [Topological Sort](https://youtu.be/5lZ0iJMrUMk?si=mGsL43AZrgVeXfQ2)
     - [Bellman ford](https://youtu.be/0vVofAhAYjc?si=GyIR-NoSEWaMM_7e)
     - A* pathfinding Algorithm
-- Dynamic Programming
-    - Introduction
-    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - Complexity Analysis
-    - 0/1 Knapsack
-    - Subset Questions
-    - Unbounded Knapsack
-    - Subsequence questions
-    - String DP
+- [Dynamic Programming](https://youtu.be/tyB0ztf0DNY?si=a5iRSwJSaWgiUAtg)
+    - [Introduction](https://youtu.be/tyB0ztf0DNY?si=a5iRSwJSaWgiUAtg)
+    - [Recursion + Recursion DP + Iteration + Iteration Space Optimized](https://youtu.be/tyB0ztf0DNY?si=a5iRSwJSaWgiUAtg)
+    - [Complexity Analysis](https://youtu.be/tyB0ztf0DNY?si=a5iRSwJSaWgiUAtg)
+    - [0/1 Knapsack](https://youtu.be/GqOmJHQZivw?si=wEmhJpephPDQmacu)
+    - [Subset Questions](https://youtu.be/fWX9xDmIzRI?si=S6cFuldUjSWPk7l_)
+    - [Unbounded Knapsack](https://youtu.be/OgvOZ6OrJoY?si=3qAMIssbxAdkKSq-)
+    - [Subsequence questions](https://youtu.be/fWX9xDmIzRI?si=S6cFuldUjSWPk7l_)
+    - [String DP](https://youtu.be/OgvOZ6OrJoY?si=8lo1P-TKvWvrYEmP)
 - [Greedy Algorithms](https://youtu.be/DIX2p7vb9co?si=Kff95ieGoWNbsfBo)
 - Tries
 
